@@ -11,9 +11,7 @@ Aucun code source n'est inclus : seulement l'arborescence, les schémas et les e
 | `backend/` | Structure du backend Laravel (API REST + JWT + MySQL) |
 | `frontend/` | Structure du frontend Angular 16 (SPA multiprofils) |
 | `docker/` | Configurations Docker (Nginx, PHP, MySQL) |
-| `kubernetes/` | Manifests de déploiement (Deployments, Services, Ingress) |
 | `github-actions/` | Workflows CI/CD (tests, build, scan, déploiement Docker) |
-| `documentation/` | Documents d'architecture, API, sécurité et DevOps |
 
 ## Stack technique
 
