@@ -1,0 +1,12 @@
+# Fichiers ignorés par Git
+node_modules/
+vendor/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+coverage/
